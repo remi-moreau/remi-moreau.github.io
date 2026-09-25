@@ -1,28 +1,28 @@
 ---
-title: Basicpage template
-author: Your Name
-shortbio: Short bio
-description-meta: Short bio for meta-data
+title: R. Moreau – Personal webpage
+author: Rémi Moreau
+shortbio: École polytechnique.
+description-meta: R. Moreau – École polytechnique – Computer Sciences student
 og-url: https://basicpage.github.io
-location: Location, office
-email: noreply@noemail.com
+location: École polytechnique, MPRI
+email: remi.moreau.x23 <at> polytechnique <dot> edu
 clickable-email: false
-picture: img/profile.png
+picture: src/assets/photo_off_moreau_remi.jpg
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
-pronouns: Pronouns
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
+pronouns: 
+og-picture: https://remimoreau.github.io/src/assets/photo_off_moreau_remi.jpg
+orcid: 0009-0004-4126-5870
+dblp: 
+scholar: 
+hal: 
+mastodon: 
+github: remi-moreau
 gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
+bitbucket: 
+bluesky: 
+linkedin: https://www.linkedin.com/in/remimoreau
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io),
