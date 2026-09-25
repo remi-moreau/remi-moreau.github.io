@@ -1,196 +1,100 @@
 ---
-title: R. Moreau – Personal webpage
+title: Remi Moreau - Personal Website
 author: Rémi Moreau
-shortbio: École polytechnique.
-description-meta: R. Moreau – École polytechnique – Computer Sciences student
-og-url: https://basicpage.github.io
-location: École polytechnique, MPRI
-email: remi.moreau.x23 <at> polytechnique <dot> edu
-clickable-email: false
+shortbio: MPRI and Ecole polytechnique
+description-meta: Rémi Moreau is a computer science student at MPRI and Ecole polytechnique, interested in theoretical deep learning and foundations of intelligence.
+og-url: https://remi-moreau.github.io/
+location: Paris, France
+email: remi.moreau.x23@polytechnique.edu
+clickable-email: true
 picture: src/assets/photo_off_moreau_remi.jpg
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
-pronouns: 
-og-picture: https://remimoreau.github.io/src/assets/photo_off_moreau_remi.jpg
+og-picture: https://remi-moreau.github.io/src/assets/photo_off_moreau_remi.jpg
 orcid: 0009-0004-4126-5870
-dblp: 
-scholar: 
-hal: 
-mastodon: 
 github: remi-moreau
-gitlab: gitlab
-bitbucket: 
-bluesky: 
 linkedin: https://www.linkedin.com/in/remimoreau
 footer: >-
-  Based on the
-  [basicpage template](https://github.com/basicpage/basicpage.github.io),
-  made to be easy to use! 🎓
+  Built from the [basicpage template](https://github.com/basicpage/basicpage.github.io).
 ---
 
-> [!NOTE]
-> This website is an example of what one can get with the `basicpage` template
-> designed for easy-to-create personal academic page.
-> You are only required to know a little bit of Markdown to get started!
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
+I am a computer science student at the [Parisian Master of Research in Computer Science (MPRI)](https://www.mpri-master.fr/) and Ecole polytechnique. I am interested in category-theoretic and geometric approaches to deep learning, world models and predictive coding, and the theoretical foundations of agency and intelligence.
 
-Here you would write a longer presentation of yourself and your research
-interest, or anything you want really.
+I am seeking a research internship from March or April to August 2027. I am particularly interested in projects connecting mathematical structure with representation learning, predictive models, or the study of intelligent systems.
 
-You have the power of Markdown, powered by Pandoc to let you do what you want.
-- Unordered lists.
-- *Italic*.
-- **Bold**.
-- Key display: <kbd>Ctrl</kbd> + <kbd>S</kbd>.
-- Sublists.
-  1. Ordered if one wants.
-  2. And so on…
+# Research
 
-> [!TIP]
-> The way this page is structured is only a suggestion, and you are basically
-> free to customise everything however you want. For the more advanced
-> customisation you might need to now very basic CSS and/or HTML, but that's it
-> because we do not rely on any heavy machinery.
-
-# Publications
-
-This template provide JSON or Yaml parsers to handle data representing
-publications to put them in the nice following shape.
-
-## Conference papers
-
-``` json {.paper}
-"title": "Towards automatic academic pages 2",
-"authors": "Templato Urnehm, U. N. Owen, Wan Morotter",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2024",
-"url": "https://basicpage.github.io"
-```
-
-``` json {.paper}
-"title": "Towards automatic academic pages",
-"authors": "Templato Urnehm, U. N. Owen",
-"awards": "Automatic Award",
-"venue": "Principles of Awesomeness (PAW)",
-"year": "2023",
-"url": "https://basicpage.github.io",
-"files": [
-  { "text": "Paper", "type": "pdf", "src": "foo.pdf" },
-  { "text": "Bibtex", "type": "bib", "src": "foo.bib" },
-  { "text": "Formalisation", "type": "code", "src": "foo.v" }
-]
-```
-
-## Journal papers
+## Manuscripts in preparation
 
 ``` yaml {.paper}
-title: Yet another yaml parser 3
-authors: Templato Urnehm
-awards:
-  - Yet another "Yet another" award
-  - Never-ending Work Award
-venue: Proceedings of Nihilism
-year: 2029
-url: https://basicpage.github.io
-files:
-  - text: Paper
-    type: pdf
-    scr: foo.pdf
-  - text: Bibtex
-    type: bib
-    src: foo.bib
+title: Motif Coder and Progressive Decoding
+authors: J. Mateos*, Rémi Moreau*, M. Dimopoulou, and M. Antonini
+venue: Manuscript in preparation (equal contribution with J. Mateos)
+year: 2026
 ```
 
-``` yaml {.papers}
-papers:
-  - title: Yet another yaml parser 2
-    authors: Templato Urnehm
-    venue: Proceedings of Nihilism
-    year: 2027
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-  - title: Yet another yaml parser
-    authors: Templato Urnehm
-    awards: Yet another "Yet another" award
-    venue: Proceedings of Nihilism
-    year: 2025
-    files:
-      - text: Paper
-        type: pdf
-        scr: foo.pdf
-      - text: Bibtex
-        type: bib
-        src: foo.bib
-      - text: Some link
-        type: link
-        src: fake.link.xyz
-      - text: Repo
-        type: git
-        src: github.com
+``` yaml {.paper}
+title: Thermodynamically Constrained Encoding Improves Reliability in DNA Data Storage
+authors: J. Mateos, Rémi Moreau, M. Dimopoulou, and M. Antonini
+venue: Manuscript in preparation
+year: 2026
 ```
 
-``` json {.paper}
-"title": "How to tame your wagon",
-"authors": "Templato Urnehm",
-"venue": "Journal of Automatic Rejection (JAR)",
-"year": "2022"
-```
+## Research experience
 
-## Drafts
+### CNRS, I3S Laboratory - Research Intern
 
-``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"awards": [
-  "Best Draft Award",
-  "Test-of-time Award for works which just never leave the draft stage"
-],
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
-```
+*Sophia Antipolis, France, 2026*
 
-## Talks
-
-``` json {.papers}
-{
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
-}
-```
+I designed an experimental framework for DNA-based data storage and implemented it as an integrated software pipeline. The project introduced algorithmic optimizations for the encoding and decoding workflow, enabled real-time decoding during sequencing of DNA-stored data, and supported an analysis of the influence of Gibbs free energy on decoding efficiency.
 
 # Education
 
-Write whatever you want here.
+### Parisian Master of Research in Computer Science (MPRI)
 
-# Teaching
+*Paris, France, 2025-2026*
 
-Write whatever you want here.
+Coursework includes category theory, abstract interpretation, proof assistants, computational geometry and topology, stochastic and heuristic algorithms, and set theory.
 
-# Community service
+### Ecole polytechnique - Ingenieur Polytechnicien
 
-Write whatever you want here.
+*Palaiseau, France, 2023-2026*
+
+Specialization in theoretical computer science. Relevant coursework includes algebraic topology, algebraic geometry and elliptic curves, information theory, topological data analysis, and advanced deep learning.
+
+### Lycee Sainte-Genevieve - CPGE MPSI/MP*
+
+*Versailles, France, 2021-2023*
+
+Two-year intensive undergraduate program in mathematics, physics, and engineering sciences.
+
+# Additional Experience
+
+### Air Liquide Biogas - Data and Engineering Intern
+
+*Milan, Italy, 2025*
+
+### Ecole polytechnique - Elected Student Representative (Kes)
+
+*2024-2026*
+
+Represented 1,200 students before the School Directorate. I also built a peer information platform used for more than 14,000 connections and coordinated a network of more than 50 class delegates.
+
+### Lycee Sainte-Genevieve - Oral Examiner in Physics
+
+*2024-2025*
+
+### French Embassy in Djibouti - Officer Intern, Defense Mission
+
+*2023-2024*
+
+Led logistics for more than 100 IHEDN auditors and wrote weekly geopolitical and intelligence reports.
+
+# Technical Interests and Skills
+
+**Mathematics and theory:** category theory, algebraic topology, information theory, computational geometry, abstract interpretation, and statistical physics.
+
+**Programming and tools:** Python, Rust, PyTorch, Rocq, SQL/PostgreSQL, Linux, Bash, Git, and GitHub.
+
+**Languages:** French (native), English (full professional proficiency), and Italian (advanced).
