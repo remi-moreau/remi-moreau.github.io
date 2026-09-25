@@ -7,11 +7,11 @@ og-url: https://remi-moreau.github.io/
 location: Paris, France
 email: remi.moreau.x23@polytechnique.edu
 clickable-email: true
-picture: src/assets/photo_off_moreau_remi.jpg
+picture: assets/photo_off_moreau_remi.jpg
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
-og-picture: https://remi-moreau.github.io/src/assets/photo_off_moreau_remi.jpg
+og-picture: https://remi-moreau.github.io/assets/photo_off_moreau_remi.jpg
 orcid: 0009-0004-4126-5870
 github: remi-moreau
 linkedin: https://www.linkedin.com/in/remimoreau
