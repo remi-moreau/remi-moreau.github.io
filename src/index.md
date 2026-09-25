@@ -30,14 +30,14 @@ I am seeking a research internship from March or April to August 2027. I am part
 ``` yaml {.paper}
 title: Motif Coder and Progressive Decoding
 authors: J. Mateos*, Rémi Moreau*, M. Dimopoulou, and M. Antonini
-venue: Manuscript in preparation (equal contribution with J. Mateos)
+venue: Manuscript in preparation (equal contribution with J. Mateos), to be submitted to *Nature Communications Engineering*
 year: 2026
 ```
 
 ``` yaml {.paper}
 title: Thermodynamically Constrained Encoding Improves Reliability in DNA Data Storage
 authors: J. Mateos, Rémi Moreau, M. Dimopoulou, and M. Antonini
-venue: Manuscript in preparation
+venue: Manuscript in preparation, to be submitted to *Nature Scientific Reports*
 year: 2026
 ```
 
