@@ -30,7 +30,7 @@ I am seeking a **research internship** from **March or April to August 2027**. I
 ``` yaml {.paper}
 title: Motif Coder and Progressive Decoding
 authors: J. Mateos\*, Rémi Moreau\*, M. Dimopoulou, and M. Antonini
-venue: Manuscript in preparation (\*: equal contribution), to be submitted to *Nature Communications Engineering*
+venue: Manuscript in preparation (\* equal contribution), to be submitted to *Nature Communications Engineering*
 year: 2026
 ```
 
