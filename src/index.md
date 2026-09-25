@@ -1,7 +1,7 @@
 ---
 title: Remi Moreau - Personal Website
 author: Rémi Moreau
-shortbio: MPRI and Ecole polytechnique
+shortbio: MPRI and École polytechnique
 description-meta: Rémi Moreau is a computer science student at MPRI and Ecole polytechnique, interested in theoretical deep learning and foundations of intelligence.
 og-url: https://remi-moreau.github.io/
 location: Paris, France
