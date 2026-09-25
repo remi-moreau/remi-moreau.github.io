@@ -63,7 +63,7 @@ Coursework includes category theory, abstract interpretation, proof assistants, 
 
 Specialization in theoretical computer science. Relevant coursework includes algebraic topology, algebraic geometry and elliptic curves, information theory, topological data analysis, and advanced deep learning.
 
-### Lycee Sainte-Genevieve - CPGE MPSI/MP*
+### Lycee Sainte-Genevieve - CPGE PCSI/PSI*
 
 *Versailles, France, 2021-2023*
 
@@ -71,15 +71,16 @@ Two-year intensive undergraduate program in mathematics, physics, and engineerin
 
 # Additional Experience
 
-### Air Liquide Biogas - Data and Engineering Intern
-
-*Milan, Italy, 2025*
-
 ### Ecole polytechnique - Elected Student Representative (Kes)
 
 *2024-2026*
 
 Represented 1,200 students before the School Directorate. I also built a peer information platform used for more than 14,000 connections and coordinated a network of more than 50 class delegates.
+
+### Air Liquide Biogas - Data and Engineering Intern
+
+*Milan, Italy, 2025*
+
 
 ### Lycee Sainte-Genevieve - Oral Examiner in Physics
 
