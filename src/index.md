@@ -19,7 +19,7 @@ footer: >-
   Built from the [basicpage template](https://github.com/basicpage/basicpage.github.io).
 ---
 
-I am a computer science student at the [Parisian Master of Research in Computer Science (MPRI)](https://www.mpri-master.ens.fr/) and [Ecole polytechnique](https://www.polytechnique.edu/en/school/presentation-ecole-polytechnique), and am interested in category-theoretic and geometric approaches to deep learning, world models and predictive coding, and the theoretical foundations of agency and intelligence.
+I am a computer science student at the [Parisian Master of Research in Computer Science (MPRI)](https://www.mpri-master.ens.fr/) and [Ecole polytechnique](https://www.polytechnique.edu/en/school/presentation-ecole-polytechnique), and am interested in category-theoretic and geometric approaches to learning and data, and the theoretical foundations of agency and intelligence.
 
 I am seeking a **research internship** from **March or April to August 2027**. I am particularly interested in projects connecting **mathematical structure** with representation learning, predictive models, or the study of intelligent systems.
 
