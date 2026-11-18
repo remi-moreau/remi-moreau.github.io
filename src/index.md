@@ -30,7 +30,7 @@ I am seeking a **research internship** from **March or April to August 2027**. I
 ``` yaml {.paper}
 title: Real-Time Progressive Decoding in DNA data storage
 authors: J. Mateos\*, Rémi Moreau\*, M. Dimopoulou, and M. Antonini
-venue: Manuscript in preparation (\* equal contribution), to be submitted to *Nature Communications Engineering*
+venue: Manuscript in preparation (\* equal contribution), to be submitted to *Nature Scientific Report* december 2026
 year: 2026
 ```
 
