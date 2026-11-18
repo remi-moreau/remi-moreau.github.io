@@ -28,7 +28,7 @@ I am seeking a **research internship** from **March or April to August 2027**. I
 ## Manuscripts in preparation
 
 ``` yaml {.paper}
-title: Motif Coder and Progressive Decoding
+title: Real-Time Progressive Decoding in DNA data storage
 authors: J. Mateos\*, Rémi Moreau\*, M. Dimopoulou, and M. Antonini
 venue: Manuscript in preparation (\* equal contribution), to be submitted to *Nature Communications Engineering*
 year: 2026
@@ -37,7 +37,8 @@ year: 2026
 ``` yaml {.paper}
 title: Thermodynamically Constrained Encoding Improves Reliability in DNA Data Storage
 authors: J. Mateos, Rémi Moreau, M. Dimopoulou, and M. Antonini
-venue: Manuscript in preparation, to be submitted to *Nature Scientific Reports*
+url: https://www.biorxiv.org/content/10.64898/2026.11.13.766389v1
+venue: Submitted to *Nature Scientific Reports*
 year: 2026
 ```
 
