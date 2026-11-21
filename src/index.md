@@ -13,6 +13,7 @@ side-by-side: true
 disable-dark-mode: false
 og-picture: https://remi-moreau.github.io/assets/photo_off_moreau_remi.jpg
 orcid: 0009-0004-4126-5870
+scholar: https://scholar.google.com/citations?user=jKZEhVwAAAAJ&hl=fr
 github: remi-moreau
 linkedin: https://www.linkedin.com/in/remimoreau
 footer: >-
