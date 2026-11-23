@@ -26,7 +26,7 @@ I am seeking a **research internship** from **March or April to August 2027**. I
 
 # Research
 
-## Manuscripts in preparation
+## Papers
 
 ``` yaml {.paper}
 title: Real-Time Progressive Decoding in DNA data storage
